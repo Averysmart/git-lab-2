@@ -1,4 +1,3 @@
-# git-lab-2
 /*
  *        File: git-lab-program.cc
  *      Author: Avery Smart
@@ -13,6 +12,7 @@ using namespace std;
 
 
 int main(int argc, char const *argv[]) {
-  cout << "Hello Git!!" << end1;
+  cout << "Hello Git!!" << endl;
+  ;
     return 0;
 }
